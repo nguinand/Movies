@@ -20,7 +20,7 @@ main_page_head = '''
 
     <meta charset="utf-8">
 
-    <title>Fresh Tomatoes!</title>
+    <title>Movie Trailers</title>
 
 
 
@@ -216,7 +216,7 @@ main_page_content = '''
 
           <div class="navbar-header">
 
-            <a class="navbar-brand" href="#">Fresh Tomatoes Movie Trailers</a>
+            <a class="navbar-brand" href="#">Sci-Fi Movie Trailers</a>
 
           </div>
 
@@ -306,7 +306,7 @@ def open_movies_page(movies):
 
     # Create or overwrite the output file
 
-    output_file = open('fresh_tomatoes.html', 'w')
+    output_file = open('movieTrailers.html', 'w')
 
 
 
