@@ -10,3 +10,5 @@ There are 3 files in this small project.
 2)movie.py: Parent class. Holds the contructor for the movie object. Takes in a title, storyline, poster image, and youtube trailer link.
 
 3)runMovie.py: I consider this the main class. This is where the objects are instantiated. There are currently 5 objects. They go into an array and are passed to pageGenerator.py
+
+NOTE: Due to copyright or restrictions, some trailers may not play.
